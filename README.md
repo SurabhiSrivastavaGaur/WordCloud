@@ -1,2 +1,0 @@
-# WordCloud
-Created with CodeSandbox
